@@ -1,0 +1,8 @@
+.img-container img{
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-table;
+    transition: all 0.3s ease-in-out;
+    
+}
